@@ -1,5 +1,5 @@
 package com.CollegeFee;
-
+//This is subclass of Student class
 public class DayScholar extends Student {
 	private int busNumber;
 	private float distance;
